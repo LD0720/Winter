@@ -1,0 +1,30 @@
+newmtl Snow
+Kd 0.784314 0.878431 0.972549
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 50.781250
+map_Kd snow.png
+
+newmtl Hat
+Kd 0.564706 0.031373 0.000000
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 50.781250
+
+newmtl Nose
+Kd 0.658824 0.031373 0.000000
+illum 1
+
+newmtl Eye
+Kd 0.023529 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 50.781250
+map_Kd eye.png
+
+newmtl Scarf
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+illum 2
+Ns 50.781250
+map_Kd scarf.png
